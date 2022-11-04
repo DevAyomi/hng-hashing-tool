@@ -2,13 +2,13 @@
 
 ------
 
-<p align="center">
-    <img title="Hng-nft-hashing-tool" height="100" src="https://raw.githubusercontent.com/laravel-zero/docs/master/images/logo/laravel-zero-readme.png" />
-</p>
+<h1 align="center">
+    Hng-nft-hashing-tool
+</h1>
 
 
 
-<h4> <center>This is a <bold>community project</bold> and not an official Laravel one </center></h4>
+<h4> <center>This is a cli<bold>tool built with</bold> laravel- zero.</center></h4>
 
 What the cli tool does
 
